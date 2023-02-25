@@ -11,3 +11,9 @@ Clone this repository and.
 npm install
 npm start
 ```
+OR
+
+```shell
+yarn install
+yarn start
+```
