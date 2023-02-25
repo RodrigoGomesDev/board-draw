@@ -7,12 +7,6 @@ Draw with your friend.
 Clone this repository and.
 
 ```shell
-yarn install
-yarn start
+npm install
+npm start
 ```
-
-## Next steps
-
-- [ ] Improving style
-- [ ] For each new player, add aleatory color to pencil
-- [ ] Implement Crl+Z
